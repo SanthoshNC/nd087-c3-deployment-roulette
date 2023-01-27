@@ -1,0 +1,18 @@
+Step #2: Deployments
+--------------------
+
+Canary Deployment
+#################
+
+canary.sh script is available in the path starter/apps/canary/canary.sh
+
+Blue Green Deployment
+#####################
+
+blue-green.sh script is available in the path starter/apps/blue-green/blue-green.sh
+
+Step #3: Node Elasticity
+------------------------
+
+The value nodes_max_size was updated to 10 in the file main\eks.tf
+
